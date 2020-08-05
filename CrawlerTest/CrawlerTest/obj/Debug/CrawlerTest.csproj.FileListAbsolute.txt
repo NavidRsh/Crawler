@@ -18,3 +18,13 @@ E:\Main\AlborzDistribution\Tasks\WebCrawlerTest\CrawlerTest\CrawlerTest\obj\Debu
 E:\Main\AlborzDistribution\Tasks\WebCrawlerTest\CrawlerTest\CrawlerTest\obj\Debug\CrawlerTest.csproj.CoreCompileInputs.cache
 E:\Main\AlborzDistribution\Tasks\WebCrawlerTest\CrawlerTest\CrawlerTest\obj\Debug\CrawlerTest.exe
 E:\Main\AlborzDistribution\Tasks\WebCrawlerTest\CrawlerTest\CrawlerTest\obj\Debug\CrawlerTest.pdb
+E:\Main\AlborzDistribution\Tasks\WebCrawlerTest\Crawler\Crawler\CrawlerTest\CrawlerTest\obj\Debug\CrawlerTest.csprojAssemblyReference.cache
+E:\Main\AlborzDistribution\Tasks\WebCrawlerTest\Crawler\Crawler\CrawlerTest\CrawlerTest\obj\Debug\CrawlerTest.Form1.resources
+E:\Main\AlborzDistribution\Tasks\WebCrawlerTest\Crawler\Crawler\CrawlerTest\CrawlerTest\obj\Debug\CrawlerTest.Properties.Resources.resources
+E:\Main\AlborzDistribution\Tasks\WebCrawlerTest\Crawler\Crawler\CrawlerTest\CrawlerTest\obj\Debug\CrawlerTest.csproj.GenerateResource.cache
+E:\Main\AlborzDistribution\Tasks\WebCrawlerTest\Crawler\Crawler\CrawlerTest\CrawlerTest\obj\Debug\CrawlerTest.csproj.CoreCompileInputs.cache
+E:\Main\AlborzDistribution\Tasks\WebCrawlerTest\Crawler\Crawler\CrawlerTest\CrawlerTest\obj\Debug\CrawlerTest.exe
+E:\Main\AlborzDistribution\Tasks\WebCrawlerTest\Crawler\Crawler\CrawlerTest\CrawlerTest\obj\Debug\CrawlerTest.pdb
+E:\Main\AlborzDistribution\Tasks\WebCrawlerTest\Crawler\Crawler\CrawlerTest\CrawlerTest\bin\Debug\CrawlerTest.exe.config
+E:\Main\AlborzDistribution\Tasks\WebCrawlerTest\Crawler\Crawler\CrawlerTest\CrawlerTest\bin\Debug\CrawlerTest.exe
+E:\Main\AlborzDistribution\Tasks\WebCrawlerTest\Crawler\Crawler\CrawlerTest\CrawlerTest\bin\Debug\CrawlerTest.pdb
